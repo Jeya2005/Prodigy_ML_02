@@ -36,5 +36,3 @@ Customer segmentation helps businesses target specific groups for marketing, pro
 
 ---
 
-## 📂 Project Structure
-
